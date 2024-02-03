@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on creating my first Learning Java repository for beginners.
-- 🌱 I’m currently learning GitHub Classroom and Assignments.
-- 👯 I’m looking to collaborate on creating auto-graded Java Assignments.
+- 🔭 I’m currently working on creating learner-friendly reading and practice content for beginners on web technologies.
+- 🌱 I’m currently updating my skills on Springboot and Angular with the latest developments.
+- 👯 I’m looking to collaborate on building a small-scale LMS for individual trainers.
 - 📫 How to reach me: vikas.bandaaru@gmail.com
